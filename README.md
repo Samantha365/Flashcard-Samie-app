@@ -10,7 +10,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/CqcbdWT.gif" width=200><br>
+<img src="https://github.com/Samantha365/Flashcard-Samie-app/commit/4d3943b35d2d36bac0eaf82394adf2359d6947dc" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
@@ -26,4 +26,5 @@
 - [ ] Add selectable multiple choice answers beneath the card
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [ ] Further customize and style the card
+
 

@@ -8,11 +8,14 @@
 
     <TextView
         android:id="@+id/flashcard_question"
+        android:background="@drawable/card_background"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:textColor="#CAC1C1"
         android:gravity="center"
         android:visibility="visible"
         android:text="Quel est l'actuel premier ministre d'Haiti?"
+        android:elevation="5dp"
         android:textSize="40sp" />
 
     <TextView
@@ -20,8 +23,11 @@
         android:layout_below="@id/flashcard_question"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:visibility="gone"
+        android:visibility="invisible"
         android:gravity="center"
         android:text="Alex Didier"
         android:textSize="40sp"/>
 </RelativeLayout>
+
+
+
